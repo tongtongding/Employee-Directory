@@ -1,0 +1,59 @@
+[
+ 
+    {
+        "id": 1,
+        "name": "Charlie Brown",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/b/b6/Charlie_Brown_smiling.png/revision/latest?cb=20170723213539",
+        "dateIntroduced": "October 2, 1950",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "name": "Snoopy",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/3/3e/Snoopytrans.png/revision/latest/scale-to-width-down/310?cb=20200323161900",
+        "dateIntroduced": "October 4, 1950",
+        "gender": "Male"
+ 
+    },
+    {
+        "id": 3,
+        "name": "Sally Brown",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/f/f1/Sally_Brown.gif/revision/latest/scale-to-width-down/310?cb=20190131140449",
+        "dateIntroduced": "August 23, 1959",
+        "gender": "Female"
+ 
+    },
+    {
+        "id": 4,
+        "name": "Lucy van Pelt",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/e/e9/Lucy_van_Pelt.png/revision/latest/scale-to-width-down/267?cb=20190808004745",
+        "dateIntroduced": "March 3, 1952",
+        "gender": "Female"
+ 
+    },
+    {
+        "id": 5,
+        "name": "Linus van Pelt",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/7/79/LinusBlanket.gif/revision/latest/scale-to-width-down/310?cb=20190808175420",
+        "dateIntroduced": "September 19, 1952",
+        "gender": "Male"
+ 
+    },
+    {
+        "id": 6,
+        "name": "Schroeder",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/e/ea/Piano.png/revision/latest/scale-to-width-down/310?cb=20190907012647",
+        "dateIntroduced": "May 30, 1951",
+        "gender": "Male"
+ 
+    },
+  
+    {
+        "id": 7,
+        "name": "Woodstock",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/e/e1/WoodstockTransparent.png/revision/latest/scale-to-width-down/310?cb=20200424220438",
+        "dateIntroduced": "March 4, 1966 ",
+        "gender": "Male"
+ 
+    }
+]
