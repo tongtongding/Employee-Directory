@@ -52,8 +52,34 @@
         "id": 7,
         "name": "Woodstock",
         "image": "https://vignette.wikia.nocookie.net/peanuts/images/e/e1/WoodstockTransparent.png/revision/latest/scale-to-width-down/310?cb=20200424220438",
-        "dateIntroduced": "March 4, 1966 ",
+        "dateIntroduced": "March 4, 1966",
+        "gender": "Male"
+ 
+    },
+
+    {
+        "id": 8,
+        "name": "Marcie",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/0/0b/Marcie_clipart.gif/revision/latest/scale-to-width-down/264?cb=20190131141521",
+        "dateIntroduced": "July 20, 1971",
+        "gender": "Female"
+ 
+    },
+    {
+        "id": 9,
+        "name": "Peppermint Patty",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/a/a0/Peppermint_Patty.png/revision/latest?cb=20160715071317",
+        "dateIntroduced": "August 22, 1966",
+        "gender": "Female"
+ 
+    },
+    {
+        "id": 10,
+        "name": "Spike",
+        "image": "https://vignette.wikia.nocookie.net/peanuts/images/c/cb/Spike.gif/revision/latest?cb=20061231020424",
+        "dateIntroduced": "August 13, 1975",
         "gender": "Male"
  
     }
+
 ]
